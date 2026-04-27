@@ -1,0 +1,15 @@
+scanpy
+anndata
+numpy
+matplotlib
+seaborn
+scipy
+umap-learn
+torch
+torchdiffeq==0.2.5
+torchcfm
+torchcde
+trajectorynet
+ipykernel
+jupyter
+jax[cuda12]

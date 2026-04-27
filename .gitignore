@@ -1,4 +1,6 @@
+cellflow_venv/
 data/
+models/
 *.h5ad
 *.pt
 *.npy
@@ -6,3 +8,4 @@ data/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+figures/
